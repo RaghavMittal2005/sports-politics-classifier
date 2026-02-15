@@ -1,0 +1,3202 @@
+[
+  {
+    "text": "The minister defended controversial policy during heated parliamentary debate session",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign team executed ground game strategy mobilizing supporters in key areas",
+    "label": "politics"
+  },
+  {
+    "text": "Quarterback threw touchdown pass connecting with receiver in corner endzone",
+    "label": "sports"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "Quarterback threw touchdown pass connecting with receiver in corner endzone",
+    "label": "sports"
+  },
+  {
+    "text": "The mayor proposed tax increases to fund expanding municipal services",
+    "label": "politics"
+  },
+  {
+    "text": "Political action committee invested heavily in competitive races across regions",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign officials announced strategic plans for winning crucial battleground districts",
+    "label": "politics"
+  },
+  {
+    "text": "The striker scored stunning hat-trick leading team to championship victory",
+    "label": "sports"
+  },
+  {
+    "text": "Officials negotiated broadcasting rights deal with major television networks",
+    "label": "sports"
+  },
+  {
+    "text": "Association implemented stricter enforcement of existing eligibility requirements",
+    "label": "sports"
+  },
+  {
+    "text": "Baseball pitcher struck out batter with devastating curveball for win",
+    "label": "sports"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "politics"
+  },
+  {
+    "text": "Volleyball team dominated opponents with aggressive serving and blocking",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis champion served powerful ace clinching grand slam title decisively",
+    "label": "sports"
+  },
+  {
+    "text": "Political action committee invested heavily in competitive races across regions",
+    "label": "politics"
+  },
+  {
+    "text": "League created oversight committee to monitor compliance with safety regulations",
+    "label": "sports"
+  },
+  {
+    "text": "Congress approved budget allocating billions for infrastructure and social programs",
+    "label": "politics"
+  },
+  {
+    "text": "Party leaders recruited candidates to compete in challenging electoral contests",
+    "label": "politics"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "sports"
+  },
+  {
+    "text": "The mayor proposed tax increases to fund expanding municipal services",
+    "label": "politics"
+  },
+  {
+    "text": "Cyclist powered up mountain pass taking yellow jersey in grueling stage",
+    "label": "sports"
+  },
+  {
+    "text": "Officials proposed amendments to constitution regarding membership criteria",
+    "label": "sports"
+  },
+  {
+    "text": "Golfer sank birdie putt on eighteenth hole capturing tournament victory",
+    "label": "sports"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "sports"
+  },
+  {
+    "text": "Rugby fullback kicked penalty goal from halfway line in dying seconds",
+    "label": "sports"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "The candidate trained extensively preparing for high-stakes debate against opponent",
+    "label": "politics"
+  },
+  {
+    "text": "Ambassador presented credentials at formal ceremony with head of state",
+    "label": "politics"
+  },
+  {
+    "text": "Political strategists developed aggressive approach for tackling policy challenges",
+    "label": "politics"
+  },
+  {
+    "text": "The president vetoed controversial bill citing constitutional concerns about provisions",
+    "label": "politics"
+  },
+  {
+    "text": "Cyclist powered up mountain pass taking yellow jersey in grueling stage",
+    "label": "sports"
+  },
+  {
+    "text": "The goalkeeper made incredible diving save preserving shutout in final",
+    "label": "sports"
+  },
+  {
+    "text": "Party officials worked to maintain momentum following victories in special elections",
+    "label": "politics"
+  },
+  {
+    "text": "Association leaders reviewed applications from cities seeking to host championships",
+    "label": "sports"
+  },
+  {
+    "text": "The federation debated proposed regulations about competitive balance and fairness",
+    "label": "sports"
+  },
+  {
+    "text": "The senator's performance in televised debate impressed undecided voters significantly",
+    "label": "politics"
+  },
+  {
+    "text": "Congress approved budget allocating billions for infrastructure and social programs",
+    "label": "politics"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "Party officials worked to maintain momentum following victories in special elections",
+    "label": "politics"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "Opposition introduced motion of no confidence in current coalition government",
+    "label": "politics"
+  },
+  {
+    "text": "Tennis champion served powerful ace clinching grand slam title decisively",
+    "label": "sports"
+  },
+  {
+    "text": "The senator's performance in televised debate impressed undecided voters significantly",
+    "label": "politics"
+  },
+  {
+    "text": "Association implemented stricter enforcement of existing eligibility requirements",
+    "label": "sports"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "Congress passed constitutional amendment guaranteeing additional civil rights protections",
+    "label": "politics"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "sports"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "The athlete broke long-standing record in high jump competition finals",
+    "label": "sports"
+  },
+  {
+    "text": "Congress approved budget allocating billions for infrastructure and social programs",
+    "label": "politics"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "The senator's performance in televised debate impressed undecided voters significantly",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "Senate committee investigated allegations of corruption in federal contracting process",
+    "label": "politics"
+  },
+  {
+    "text": "The candidate trained extensively preparing for high-stakes debate against opponent",
+    "label": "politics"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "politics"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "sports"
+  },
+  {
+    "text": "The senator's performance in televised debate impressed undecided voters significantly",
+    "label": "politics"
+  },
+  {
+    "text": "The governor's approval ratings improved following strong leadership during crisis",
+    "label": "politics"
+  },
+  {
+    "text": "The governor signed executive order declaring state of emergency statewide",
+    "label": "politics"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "Officials proposed amendments to constitution regarding membership criteria",
+    "label": "sports"
+  },
+  {
+    "text": "The gymnast executed flawless floor routine earning perfect scores from judges",
+    "label": "sports"
+  },
+  {
+    "text": "Parliament passed comprehensive healthcare legislation by narrow majority vote yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "politics"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "Parliament passed comprehensive healthcare legislation by narrow majority vote yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "The governing body established task force examining competitive imbalances regionally",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "President appointed new cabinet ministers in major government reshuffle today",
+    "label": "politics"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "sports"
+  },
+  {
+    "text": "Party leaders recruited candidates to compete in challenging electoral contests",
+    "label": "politics"
+  },
+  {
+    "text": "Opposition leader criticized administration's handling of economic crisis situation",
+    "label": "politics"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "politics"
+  },
+  {
+    "text": "Wrestler pinned challenger in final seconds retaining heavyweight championship belt",
+    "label": "sports"
+  },
+  {
+    "text": "Quarterback threw touchdown pass connecting with receiver in corner endzone",
+    "label": "sports"
+  },
+  {
+    "text": "President appointed new cabinet ministers in major government reshuffle today",
+    "label": "politics"
+  },
+  {
+    "text": "Congress passed constitutional amendment guaranteeing additional civil rights protections",
+    "label": "politics"
+  },
+  {
+    "text": "Association implemented stricter enforcement of existing eligibility requirements",
+    "label": "sports"
+  },
+  {
+    "text": "Congress approved budget allocating billions for infrastructure and social programs",
+    "label": "politics"
+  },
+  {
+    "text": "The board approved significant increases in licensing fees for merchandise",
+    "label": "sports"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "Opposition mounted comeback campaign after suffering defeats on major votes",
+    "label": "politics"
+  },
+  {
+    "text": "Diplomats successfully negotiated peace treaty ending years of armed conflict",
+    "label": "politics"
+  },
+  {
+    "text": "Diplomats successfully negotiated peace treaty ending years of armed conflict",
+    "label": "politics"
+  },
+  {
+    "text": "Party surrogates defended record against aggressive attacks from challengers",
+    "label": "politics"
+  },
+  {
+    "text": "Figure skater landed triple axel perfectly capturing hearts of audience",
+    "label": "sports"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "League created oversight committee to monitor compliance with safety regulations",
+    "label": "sports"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "sports"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "The board approved significant increases in licensing fees for merchandise",
+    "label": "sports"
+  },
+  {
+    "text": "Association leaders reviewed applications from cities seeking to host championships",
+    "label": "sports"
+  },
+  {
+    "text": "The goalkeeper made incredible diving save preserving shutout in final",
+    "label": "sports"
+  },
+  {
+    "text": "The candidate trained extensively preparing for high-stakes debate against opponent",
+    "label": "politics"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "sports"
+  },
+  {
+    "text": "Association leaders reviewed applications from cities seeking to host championships",
+    "label": "sports"
+  },
+  {
+    "text": "Swimming relay team touched wall first setting new world record time",
+    "label": "sports"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "politics"
+  },
+  {
+    "text": "League created oversight committee to monitor compliance with safety regulations",
+    "label": "sports"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "politics"
+  },
+  {
+    "text": "The administration struggled to recover from poorly managed response to situation",
+    "label": "politics"
+  },
+  {
+    "text": "Association implemented stricter enforcement of existing eligibility requirements",
+    "label": "sports"
+  },
+  {
+    "text": "The governing body established task force examining competitive imbalances regionally",
+    "label": "sports"
+  },
+  {
+    "text": "Association implemented stricter enforcement of existing eligibility requirements",
+    "label": "sports"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "sports"
+  },
+  {
+    "text": "The federation debated proposed regulations about competitive balance and fairness",
+    "label": "sports"
+  },
+  {
+    "text": "Senate committee investigated allegations of corruption in federal contracting process",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign team executed ground game strategy mobilizing supporters in key areas",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "politics"
+  },
+  {
+    "text": "Senate confirmed supreme court nominee after weeks of contentious hearings",
+    "label": "politics"
+  },
+  {
+    "text": "Association leaders reviewed applications from cities seeking to host championships",
+    "label": "sports"
+  },
+  {
+    "text": "Supreme court ruled existing statute unconstitutional in landmark decision yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "The federation debated proposed regulations about competitive balance and fairness",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign team executed ground game strategy mobilizing supporters in key areas",
+    "label": "politics"
+  },
+  {
+    "text": "Political action committee invested heavily in competitive races across regions",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "sports"
+  },
+  {
+    "text": "The runner sprinted past competitors winning gold medal in record time",
+    "label": "sports"
+  },
+  {
+    "text": "League officials announced major reforms to governance structure following investigation",
+    "label": "sports"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "The boxer delivered knockout punch in seventh round defending title successfully",
+    "label": "sports"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "politics"
+  },
+  {
+    "text": "Opposition mounted comeback campaign after suffering defeats on major votes",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign officials announced strategic plans for winning crucial battleground districts",
+    "label": "politics"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "politics"
+  },
+  {
+    "text": "The minister defended controversial policy during heated parliamentary debate session",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "sports"
+  },
+  {
+    "text": "Political strategists developed aggressive approach for tackling policy challenges",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "politics"
+  },
+  {
+    "text": "The governor signed executive order declaring state of emergency statewide",
+    "label": "politics"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "President appointed new cabinet ministers in major government reshuffle today",
+    "label": "politics"
+  },
+  {
+    "text": "League officials announced major reforms to governance structure following investigation",
+    "label": "sports"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "sports"
+  },
+  {
+    "text": "Opposition leader criticized administration's handling of economic crisis situation",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "sports"
+  },
+  {
+    "text": "Opposition mounted comeback campaign after suffering defeats on major votes",
+    "label": "politics"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "politics"
+  },
+  {
+    "text": "President appointed new cabinet ministers in major government reshuffle today",
+    "label": "politics"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "politics"
+  },
+  {
+    "text": "The runner sprinted past competitors winning gold medal in record time",
+    "label": "sports"
+  },
+  {
+    "text": "Party leaders recruited candidates to compete in challenging electoral contests",
+    "label": "politics"
+  },
+  {
+    "text": "The committee voted to approve expansion plans despite opposition from members",
+    "label": "sports"
+  },
+  {
+    "text": "Rugby fullback kicked penalty goal from halfway line in dying seconds",
+    "label": "sports"
+  },
+  {
+    "text": "League created oversight committee to monitor compliance with safety regulations",
+    "label": "sports"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "sports"
+  },
+  {
+    "text": "The governing body established task force examining competitive imbalances regionally",
+    "label": "sports"
+  },
+  {
+    "text": "League created oversight committee to monitor compliance with safety regulations",
+    "label": "sports"
+  },
+  {
+    "text": "The athlete broke long-standing record in high jump competition finals",
+    "label": "sports"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "Quarterback threw touchdown pass connecting with receiver in corner endzone",
+    "label": "sports"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "politics"
+  },
+  {
+    "text": "Party surrogates defended record against aggressive attacks from challengers",
+    "label": "politics"
+  },
+  {
+    "text": "The administration struggled to recover from poorly managed response to situation",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign team executed ground game strategy mobilizing supporters in key areas",
+    "label": "politics"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "politics"
+  },
+  {
+    "text": "Soccer midfielder delivered perfect assist splitting defense for easy goal",
+    "label": "sports"
+  },
+  {
+    "text": "Senate confirmed supreme court nominee after weeks of contentious hearings",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "Baseball pitcher struck out batter with devastating curveball for win",
+    "label": "sports"
+  },
+  {
+    "text": "Officials proposed amendments to constitution regarding membership criteria",
+    "label": "sports"
+  },
+  {
+    "text": "The administration struggled to recover from poorly managed response to situation",
+    "label": "politics"
+  },
+  {
+    "text": "Wrestler pinned challenger in final seconds retaining heavyweight championship belt",
+    "label": "sports"
+  },
+  {
+    "text": "The senator's performance in televised debate impressed undecided voters significantly",
+    "label": "politics"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "politics"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "politics"
+  },
+  {
+    "text": "The federation debated proposed regulations about competitive balance and fairness",
+    "label": "sports"
+  },
+  {
+    "text": "Cricket batsman smashed century leading country to series victory convincingly",
+    "label": "sports"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "Baseball pitcher struck out batter with devastating curveball for win",
+    "label": "sports"
+  },
+  {
+    "text": "Hockey forward scored overtime goal sending fans into wild celebration",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "Congress approved budget allocating billions for infrastructure and social programs",
+    "label": "politics"
+  },
+  {
+    "text": "Officials negotiated broadcasting rights deal with major television networks",
+    "label": "sports"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "Treasury secretary outlined economic stimulus package to boost sluggish growth",
+    "label": "politics"
+  },
+  {
+    "text": "Parliament passed comprehensive healthcare legislation by narrow majority vote yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "politics"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "Association leaders reviewed applications from cities seeking to host championships",
+    "label": "sports"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "The committee voted to approve expansion plans despite opposition from members",
+    "label": "sports"
+  },
+  {
+    "text": "Officials proposed amendments to constitution regarding membership criteria",
+    "label": "sports"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "politics"
+  },
+  {
+    "text": "Senate confirmed supreme court nominee after weeks of contentious hearings",
+    "label": "politics"
+  },
+  {
+    "text": "Parliament passed comprehensive healthcare legislation by narrow majority vote yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "Volleyball team dominated opponents with aggressive serving and blocking",
+    "label": "sports"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "Ambassador presented credentials at formal ceremony with head of state",
+    "label": "politics"
+  },
+  {
+    "text": "Basketball star sank buzzer-beater three-pointer winning playoff game dramatically",
+    "label": "sports"
+  },
+  {
+    "text": "Association implemented stricter enforcement of existing eligibility requirements",
+    "label": "sports"
+  },
+  {
+    "text": "Officials negotiated broadcasting rights deal with major television networks",
+    "label": "sports"
+  },
+  {
+    "text": "Political strategists developed aggressive approach for tackling policy challenges",
+    "label": "politics"
+  },
+  {
+    "text": "League created oversight committee to monitor compliance with safety regulations",
+    "label": "sports"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "politics"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "sports"
+  },
+  {
+    "text": "The senator's performance in televised debate impressed undecided voters significantly",
+    "label": "politics"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "politics"
+  },
+  {
+    "text": "The president vetoed controversial bill citing constitutional concerns about provisions",
+    "label": "politics"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "politics"
+  },
+  {
+    "text": "Political strategists developed aggressive approach for tackling policy challenges",
+    "label": "politics"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign officials announced strategic plans for winning crucial battleground districts",
+    "label": "politics"
+  },
+  {
+    "text": "Officials negotiated broadcasting rights deal with major television networks",
+    "label": "sports"
+  },
+  {
+    "text": "The boxer delivered knockout punch in seventh round defending title successfully",
+    "label": "sports"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "sports"
+  },
+  {
+    "text": "President appointed new cabinet ministers in major government reshuffle today",
+    "label": "politics"
+  },
+  {
+    "text": "The candidate trained extensively preparing for high-stakes debate against opponent",
+    "label": "politics"
+  },
+  {
+    "text": "The committee voted to approve expansion plans despite opposition from members",
+    "label": "sports"
+  },
+  {
+    "text": "Officials negotiated broadcasting rights deal with major television networks",
+    "label": "sports"
+  },
+  {
+    "text": "Party leaders recruited candidates to compete in challenging electoral contests",
+    "label": "politics"
+  },
+  {
+    "text": "The governing body established task force examining competitive imbalances regionally",
+    "label": "sports"
+  },
+  {
+    "text": "The committee voted to approve expansion plans despite opposition from members",
+    "label": "sports"
+  },
+  {
+    "text": "Golfer sank birdie putt on eighteenth hole capturing tournament victory",
+    "label": "sports"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "Treasury secretary outlined economic stimulus package to boost sluggish growth",
+    "label": "politics"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "politics"
+  },
+  {
+    "text": "Treasury secretary outlined economic stimulus package to boost sluggish growth",
+    "label": "politics"
+  },
+  {
+    "text": "The administration struggled to recover from poorly managed response to situation",
+    "label": "politics"
+  },
+  {
+    "text": "Quarterback threw touchdown pass connecting with receiver in corner endzone",
+    "label": "sports"
+  },
+  {
+    "text": "Officials proposed amendments to constitution regarding membership criteria",
+    "label": "sports"
+  },
+  {
+    "text": "Opposition mounted comeback campaign after suffering defeats on major votes",
+    "label": "politics"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "politics"
+  },
+  {
+    "text": "The runner sprinted past competitors winning gold medal in record time",
+    "label": "sports"
+  },
+  {
+    "text": "The boxer delivered knockout punch in seventh round defending title successfully",
+    "label": "sports"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "politics"
+  },
+  {
+    "text": "The striker scored stunning hat-trick leading team to championship victory",
+    "label": "sports"
+  },
+  {
+    "text": "League created oversight committee to monitor compliance with safety regulations",
+    "label": "sports"
+  },
+  {
+    "text": "Diplomats successfully negotiated peace treaty ending years of armed conflict",
+    "label": "politics"
+  },
+  {
+    "text": "The board approved significant increases in licensing fees for merchandise",
+    "label": "sports"
+  },
+  {
+    "text": "Figure skater landed triple axel perfectly capturing hearts of audience",
+    "label": "sports"
+  },
+  {
+    "text": "Representatives advocated for rule changes at international federation meetings",
+    "label": "sports"
+  },
+  {
+    "text": "Officials proposed amendments to constitution regarding membership criteria",
+    "label": "sports"
+  },
+  {
+    "text": "Representatives advocated for rule changes at international federation meetings",
+    "label": "sports"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "politics"
+  },
+  {
+    "text": "The governor's approval ratings improved following strong leadership during crisis",
+    "label": "politics"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "sports"
+  },
+  {
+    "text": "Party officials worked to maintain momentum following victories in special elections",
+    "label": "politics"
+  },
+  {
+    "text": "Political action committee invested heavily in competitive races across regions",
+    "label": "politics"
+  },
+  {
+    "text": "Figure skater landed triple axel perfectly capturing hearts of audience",
+    "label": "sports"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "Lawmakers reached bipartisan compromise on immigration reform after months of negotiation",
+    "label": "politics"
+  },
+  {
+    "text": "Party surrogates defended record against aggressive attacks from challengers",
+    "label": "politics"
+  },
+  {
+    "text": "Hockey forward scored overtime goal sending fans into wild celebration",
+    "label": "sports"
+  },
+  {
+    "text": "The board approved significant increases in licensing fees for merchandise",
+    "label": "sports"
+  },
+  {
+    "text": "Association leaders reviewed applications from cities seeking to host championships",
+    "label": "sports"
+  },
+  {
+    "text": "Political action committee invested heavily in competitive races across regions",
+    "label": "politics"
+  },
+  {
+    "text": "Party leaders recruited candidates to compete in challenging electoral contests",
+    "label": "politics"
+  },
+  {
+    "text": "Political action committee invested heavily in competitive races across regions",
+    "label": "politics"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "The senator's performance in televised debate impressed undecided voters significantly",
+    "label": "politics"
+  },
+  {
+    "text": "The goalkeeper made incredible diving save preserving shutout in final",
+    "label": "sports"
+  },
+  {
+    "text": "League officials announced major reforms to governance structure following investigation",
+    "label": "sports"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "politics"
+  },
+  {
+    "text": "The athlete broke long-standing record in high jump competition finals",
+    "label": "sports"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "sports"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "Representatives advocated for rule changes at international federation meetings",
+    "label": "sports"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "politics"
+  },
+  {
+    "text": "Prime minister resigned following scandal involving misuse of public funds",
+    "label": "politics"
+  },
+  {
+    "text": "Wrestler pinned challenger in final seconds retaining heavyweight championship belt",
+    "label": "sports"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign team executed ground game strategy mobilizing supporters in key areas",
+    "label": "politics"
+  },
+  {
+    "text": "The governing body established task force examining competitive imbalances regionally",
+    "label": "sports"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "Political action committee invested heavily in competitive races across regions",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "The governor's approval ratings improved following strong leadership during crisis",
+    "label": "politics"
+  },
+  {
+    "text": "Opposition mounted comeback campaign after suffering defeats on major votes",
+    "label": "politics"
+  },
+  {
+    "text": "Cricket batsman smashed century leading country to series victory convincingly",
+    "label": "sports"
+  },
+  {
+    "text": "Treasury secretary outlined economic stimulus package to boost sluggish growth",
+    "label": "politics"
+  },
+  {
+    "text": "Opposition mounted comeback campaign after suffering defeats on major votes",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "Prime minister resigned following scandal involving misuse of public funds",
+    "label": "politics"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "Association implemented stricter enforcement of existing eligibility requirements",
+    "label": "sports"
+  },
+  {
+    "text": "The striker scored stunning hat-trick leading team to championship victory",
+    "label": "sports"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "politics"
+  },
+  {
+    "text": "Senate confirmed supreme court nominee after weeks of contentious hearings",
+    "label": "politics"
+  },
+  {
+    "text": "Ambassador presented credentials at formal ceremony with head of state",
+    "label": "politics"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "politics"
+  },
+  {
+    "text": "Supreme court ruled existing statute unconstitutional in landmark decision yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "Association implemented stricter enforcement of existing eligibility requirements",
+    "label": "sports"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "sports"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "sports"
+  },
+  {
+    "text": "Senate committee investigated allegations of corruption in federal contracting process",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "Baseball pitcher struck out batter with devastating curveball for win",
+    "label": "sports"
+  },
+  {
+    "text": "The senator's performance in televised debate impressed undecided voters significantly",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "sports"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "politics"
+  },
+  {
+    "text": "Soccer midfielder delivered perfect assist splitting defense for easy goal",
+    "label": "sports"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "sports"
+  },
+  {
+    "text": "Political action committee invested heavily in competitive races across regions",
+    "label": "politics"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "politics"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "sports"
+  },
+  {
+    "text": "Hockey forward scored overtime goal sending fans into wild celebration",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "sports"
+  },
+  {
+    "text": "Baseball pitcher struck out batter with devastating curveball for win",
+    "label": "sports"
+  },
+  {
+    "text": "Parliament passed comprehensive healthcare legislation by narrow majority vote yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "Supreme court ruled existing statute unconstitutional in landmark decision yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "sports"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "Cricket batsman smashed century leading country to series victory convincingly",
+    "label": "sports"
+  },
+  {
+    "text": "Volleyball team dominated opponents with aggressive serving and blocking",
+    "label": "sports"
+  },
+  {
+    "text": "The boxer delivered knockout punch in seventh round defending title successfully",
+    "label": "sports"
+  },
+  {
+    "text": "Representatives advocated for rule changes at international federation meetings",
+    "label": "sports"
+  },
+  {
+    "text": "Opposition mounted comeback campaign after suffering defeats on major votes",
+    "label": "politics"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "sports"
+  },
+  {
+    "text": "Volleyball team dominated opponents with aggressive serving and blocking",
+    "label": "sports"
+  },
+  {
+    "text": "Wrestler pinned challenger in final seconds retaining heavyweight championship belt",
+    "label": "sports"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "sports"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "sports"
+  },
+  {
+    "text": "Lawmakers reached bipartisan compromise on immigration reform after months of negotiation",
+    "label": "politics"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "Political action committee invested heavily in competitive races across regions",
+    "label": "politics"
+  },
+  {
+    "text": "The governor signed executive order declaring state of emergency statewide",
+    "label": "politics"
+  },
+  {
+    "text": "Congress approved budget allocating billions for infrastructure and social programs",
+    "label": "politics"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "sports"
+  },
+  {
+    "text": "Cricket batsman smashed century leading country to series victory convincingly",
+    "label": "sports"
+  },
+  {
+    "text": "The boxer delivered knockout punch in seventh round defending title successfully",
+    "label": "sports"
+  },
+  {
+    "text": "Rugby fullback kicked penalty goal from halfway line in dying seconds",
+    "label": "sports"
+  },
+  {
+    "text": "Cyclist powered up mountain pass taking yellow jersey in grueling stage",
+    "label": "sports"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "Opposition leader criticized administration's handling of economic crisis situation",
+    "label": "politics"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "politics"
+  },
+  {
+    "text": "Basketball star sank buzzer-beater three-pointer winning playoff game dramatically",
+    "label": "sports"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "sports"
+  },
+  {
+    "text": "The runner sprinted past competitors winning gold medal in record time",
+    "label": "sports"
+  },
+  {
+    "text": "The candidate trained extensively preparing for high-stakes debate against opponent",
+    "label": "politics"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "Prime minister resigned following scandal involving misuse of public funds",
+    "label": "politics"
+  },
+  {
+    "text": "Quarterback threw touchdown pass connecting with receiver in corner endzone",
+    "label": "sports"
+  },
+  {
+    "text": "Baseball pitcher struck out batter with devastating curveball for win",
+    "label": "sports"
+  },
+  {
+    "text": "The mayor proposed tax increases to fund expanding municipal services",
+    "label": "politics"
+  },
+  {
+    "text": "League created oversight committee to monitor compliance with safety regulations",
+    "label": "sports"
+  },
+  {
+    "text": "Opposition mounted comeback campaign after suffering defeats on major votes",
+    "label": "politics"
+  },
+  {
+    "text": "The boxer delivered knockout punch in seventh round defending title successfully",
+    "label": "sports"
+  },
+  {
+    "text": "Diplomats successfully negotiated peace treaty ending years of armed conflict",
+    "label": "politics"
+  },
+  {
+    "text": "Golfer sank birdie putt on eighteenth hole capturing tournament victory",
+    "label": "sports"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "Opposition leader criticized administration's handling of economic crisis situation",
+    "label": "politics"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "sports"
+  },
+  {
+    "text": "Figure skater landed triple axel perfectly capturing hearts of audience",
+    "label": "sports"
+  },
+  {
+    "text": "Cricket batsman smashed century leading country to series victory convincingly",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "Opposition leader criticized administration's handling of economic crisis situation",
+    "label": "politics"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "Party officials worked to maintain momentum following victories in special elections",
+    "label": "politics"
+  },
+  {
+    "text": "Officials proposed amendments to constitution regarding membership criteria",
+    "label": "sports"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "sports"
+  },
+  {
+    "text": "Figure skater landed triple axel perfectly capturing hearts of audience",
+    "label": "sports"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "The minister defended controversial policy during heated parliamentary debate session",
+    "label": "politics"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "sports"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "sports"
+  },
+  {
+    "text": "President appointed new cabinet ministers in major government reshuffle today",
+    "label": "politics"
+  },
+  {
+    "text": "Parliament passed comprehensive healthcare legislation by narrow majority vote yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "The governor's approval ratings improved following strong leadership during crisis",
+    "label": "politics"
+  },
+  {
+    "text": "Soccer midfielder delivered perfect assist splitting defense for easy goal",
+    "label": "sports"
+  },
+  {
+    "text": "League officials announced major reforms to governance structure following investigation",
+    "label": "sports"
+  },
+  {
+    "text": "Party leaders recruited candidates to compete in challenging electoral contests",
+    "label": "politics"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "Quarterback threw touchdown pass connecting with receiver in corner endzone",
+    "label": "sports"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "politics"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "sports"
+  },
+  {
+    "text": "Golfer sank birdie putt on eighteenth hole capturing tournament victory",
+    "label": "sports"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "sports"
+  },
+  {
+    "text": "Senate confirmed supreme court nominee after weeks of contentious hearings",
+    "label": "politics"
+  },
+  {
+    "text": "Ambassador presented credentials at formal ceremony with head of state",
+    "label": "politics"
+  },
+  {
+    "text": "Baseball pitcher struck out batter with devastating curveball for win",
+    "label": "sports"
+  },
+  {
+    "text": "Soccer midfielder delivered perfect assist splitting defense for easy goal",
+    "label": "sports"
+  },
+  {
+    "text": "The board approved significant increases in licensing fees for merchandise",
+    "label": "sports"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "sports"
+  },
+  {
+    "text": "League officials announced major reforms to governance structure following investigation",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign officials announced strategic plans for winning crucial battleground districts",
+    "label": "politics"
+  },
+  {
+    "text": "Political action committee invested heavily in competitive races across regions",
+    "label": "politics"
+  },
+  {
+    "text": "The boxer delivered knockout punch in seventh round defending title successfully",
+    "label": "sports"
+  },
+  {
+    "text": "The goalkeeper made incredible diving save preserving shutout in final",
+    "label": "sports"
+  },
+  {
+    "text": "The candidate trained extensively preparing for high-stakes debate against opponent",
+    "label": "politics"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "sports"
+  },
+  {
+    "text": "Swimming relay team touched wall first setting new world record time",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball star sank buzzer-beater three-pointer winning playoff game dramatically",
+    "label": "sports"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "The runner sprinted past competitors winning gold medal in record time",
+    "label": "sports"
+  },
+  {
+    "text": "League created oversight committee to monitor compliance with safety regulations",
+    "label": "sports"
+  },
+  {
+    "text": "Party leaders recruited candidates to compete in challenging electoral contests",
+    "label": "politics"
+  },
+  {
+    "text": "The runner sprinted past competitors winning gold medal in record time",
+    "label": "sports"
+  },
+  {
+    "text": "The striker scored stunning hat-trick leading team to championship victory",
+    "label": "sports"
+  },
+  {
+    "text": "The candidate trained extensively preparing for high-stakes debate against opponent",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "sports"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "politics"
+  },
+  {
+    "text": "The governing body established task force examining competitive imbalances regionally",
+    "label": "sports"
+  },
+  {
+    "text": "Senate confirmed supreme court nominee after weeks of contentious hearings",
+    "label": "politics"
+  },
+  {
+    "text": "Cyclist powered up mountain pass taking yellow jersey in grueling stage",
+    "label": "sports"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "politics"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "Party officials worked to maintain momentum following victories in special elections",
+    "label": "politics"
+  },
+  {
+    "text": "The governor signed executive order declaring state of emergency statewide",
+    "label": "politics"
+  },
+  {
+    "text": "League officials announced major reforms to governance structure following investigation",
+    "label": "sports"
+  },
+  {
+    "text": "The striker scored stunning hat-trick leading team to championship victory",
+    "label": "sports"
+  },
+  {
+    "text": "Senate confirmed supreme court nominee after weeks of contentious hearings",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "politics"
+  },
+  {
+    "text": "Rugby fullback kicked penalty goal from halfway line in dying seconds",
+    "label": "sports"
+  },
+  {
+    "text": "Cricket batsman smashed century leading country to series victory convincingly",
+    "label": "sports"
+  },
+  {
+    "text": "The athlete broke long-standing record in high jump competition finals",
+    "label": "sports"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "politics"
+  },
+  {
+    "text": "Golfer sank birdie putt on eighteenth hole capturing tournament victory",
+    "label": "sports"
+  },
+  {
+    "text": "Wrestler pinned challenger in final seconds retaining heavyweight championship belt",
+    "label": "sports"
+  },
+  {
+    "text": "Volleyball team dominated opponents with aggressive serving and blocking",
+    "label": "sports"
+  },
+  {
+    "text": "The athlete broke long-standing record in high jump competition finals",
+    "label": "sports"
+  },
+  {
+    "text": "Political strategists developed aggressive approach for tackling policy challenges",
+    "label": "politics"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "politics"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "sports"
+  },
+  {
+    "text": "Soccer midfielder delivered perfect assist splitting defense for easy goal",
+    "label": "sports"
+  },
+  {
+    "text": "Baseball pitcher struck out batter with devastating curveball for win",
+    "label": "sports"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "sports"
+  },
+  {
+    "text": "The federation debated proposed regulations about competitive balance and fairness",
+    "label": "sports"
+  },
+  {
+    "text": "The administration faced strong opposition during legislative battles over reforms",
+    "label": "politics"
+  },
+  {
+    "text": "Swimming relay team touched wall first setting new world record time",
+    "label": "sports"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "The governor signed executive order declaring state of emergency statewide",
+    "label": "politics"
+  },
+  {
+    "text": "Congress passed constitutional amendment guaranteeing additional civil rights protections",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "Officials proposed amendments to constitution regarding membership criteria",
+    "label": "sports"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "politics"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "Officials proposed amendments to constitution regarding membership criteria",
+    "label": "sports"
+  },
+  {
+    "text": "Soccer midfielder delivered perfect assist splitting defense for easy goal",
+    "label": "sports"
+  },
+  {
+    "text": "The athlete broke long-standing record in high jump competition finals",
+    "label": "sports"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "Party surrogates defended record against aggressive attacks from challengers",
+    "label": "politics"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "sports"
+  },
+  {
+    "text": "Swimming relay team touched wall first setting new world record time",
+    "label": "sports"
+  },
+  {
+    "text": "The governor signed executive order declaring state of emergency statewide",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign team executed ground game strategy mobilizing supporters in key areas",
+    "label": "politics"
+  },
+  {
+    "text": "Supreme court ruled existing statute unconstitutional in landmark decision yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "Party officials worked to maintain momentum following victories in special elections",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "sports"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "politics"
+  },
+  {
+    "text": "The federation debated proposed regulations about competitive balance and fairness",
+    "label": "sports"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "politics"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "politics"
+  },
+  {
+    "text": "Party officials worked to maintain momentum following victories in special elections",
+    "label": "politics"
+  },
+  {
+    "text": "The committee voted to approve expansion plans despite opposition from members",
+    "label": "sports"
+  },
+  {
+    "text": "Representatives advocated for rule changes at international federation meetings",
+    "label": "sports"
+  },
+  {
+    "text": "Soccer midfielder delivered perfect assist splitting defense for easy goal",
+    "label": "sports"
+  },
+  {
+    "text": "Baseball pitcher struck out batter with devastating curveball for win",
+    "label": "sports"
+  },
+  {
+    "text": "Congress passed constitutional amendment guaranteeing additional civil rights protections",
+    "label": "politics"
+  },
+  {
+    "text": "The federation debated proposed regulations about competitive balance and fairness",
+    "label": "sports"
+  },
+  {
+    "text": "The minister defended controversial policy during heated parliamentary debate session",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "politics"
+  },
+  {
+    "text": "Representatives advocated for rule changes at international federation meetings",
+    "label": "sports"
+  },
+  {
+    "text": "Cyclist powered up mountain pass taking yellow jersey in grueling stage",
+    "label": "sports"
+  },
+  {
+    "text": "Prime minister resigned following scandal involving misuse of public funds",
+    "label": "politics"
+  },
+  {
+    "text": "The committee voted to approve expansion plans despite opposition from members",
+    "label": "sports"
+  },
+  {
+    "text": "The athlete broke long-standing record in high jump competition finals",
+    "label": "sports"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "Baseball pitcher struck out batter with devastating curveball for win",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign officials announced strategic plans for winning crucial battleground districts",
+    "label": "politics"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "Political strategists developed aggressive approach for tackling policy challenges",
+    "label": "politics"
+  },
+  {
+    "text": "Parliament passed comprehensive healthcare legislation by narrow majority vote yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "Baseball pitcher struck out batter with devastating curveball for win",
+    "label": "sports"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "The minister defended controversial policy during heated parliamentary debate session",
+    "label": "politics"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "politics"
+  },
+  {
+    "text": "The senator's performance in televised debate impressed undecided voters significantly",
+    "label": "politics"
+  },
+  {
+    "text": "Political action committee invested heavily in competitive races across regions",
+    "label": "politics"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "Senate confirmed supreme court nominee after weeks of contentious hearings",
+    "label": "politics"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "Officials proposed amendments to constitution regarding membership criteria",
+    "label": "sports"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "politics"
+  },
+  {
+    "text": "The board approved significant increases in licensing fees for merchandise",
+    "label": "sports"
+  },
+  {
+    "text": "Party surrogates defended record against aggressive attacks from challengers",
+    "label": "politics"
+  },
+  {
+    "text": "Golfer sank birdie putt on eighteenth hole capturing tournament victory",
+    "label": "sports"
+  },
+  {
+    "text": "The striker scored stunning hat-trick leading team to championship victory",
+    "label": "sports"
+  },
+  {
+    "text": "The mayor proposed tax increases to fund expanding municipal services",
+    "label": "politics"
+  },
+  {
+    "text": "The president vetoed controversial bill citing constitutional concerns about provisions",
+    "label": "politics"
+  },
+  {
+    "text": "Hockey forward scored overtime goal sending fans into wild celebration",
+    "label": "sports"
+  },
+  {
+    "text": "The athlete broke long-standing record in high jump competition finals",
+    "label": "sports"
+  },
+  {
+    "text": "Cricket batsman smashed century leading country to series victory convincingly",
+    "label": "sports"
+  },
+  {
+    "text": "Party officials worked to maintain momentum following victories in special elections",
+    "label": "politics"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "politics"
+  },
+  {
+    "text": "Prime minister resigned following scandal involving misuse of public funds",
+    "label": "politics"
+  },
+  {
+    "text": "The governor signed executive order declaring state of emergency statewide",
+    "label": "politics"
+  },
+  {
+    "text": "Party surrogates defended record against aggressive attacks from challengers",
+    "label": "politics"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "sports"
+  },
+  {
+    "text": "Swimming relay team touched wall first setting new world record time",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign officials announced strategic plans for winning crucial battleground districts",
+    "label": "politics"
+  },
+  {
+    "text": "Basketball star sank buzzer-beater three-pointer winning playoff game dramatically",
+    "label": "sports"
+  },
+  {
+    "text": "Diplomats successfully negotiated peace treaty ending years of armed conflict",
+    "label": "politics"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "The federation debated proposed regulations about competitive balance and fairness",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis champion served powerful ace clinching grand slam title decisively",
+    "label": "sports"
+  },
+  {
+    "text": "Soccer midfielder delivered perfect assist splitting defense for easy goal",
+    "label": "sports"
+  },
+  {
+    "text": "Figure skater landed triple axel perfectly capturing hearts of audience",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "politics"
+  },
+  {
+    "text": "The striker scored stunning hat-trick leading team to championship victory",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign officials announced strategic plans for winning crucial battleground districts",
+    "label": "politics"
+  },
+  {
+    "text": "Party surrogates defended record against aggressive attacks from challengers",
+    "label": "politics"
+  },
+  {
+    "text": "The runner sprinted past competitors winning gold medal in record time",
+    "label": "sports"
+  },
+  {
+    "text": "Parliament passed comprehensive healthcare legislation by narrow majority vote yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign team executed ground game strategy mobilizing supporters in key areas",
+    "label": "politics"
+  },
+  {
+    "text": "The administration faced strong opposition during legislative battles over reforms",
+    "label": "politics"
+  },
+  {
+    "text": "Opposition leader criticized administration's handling of economic crisis situation",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign officials announced strategic plans for winning crucial battleground districts",
+    "label": "politics"
+  },
+  {
+    "text": "Opposition leader criticized administration's handling of economic crisis situation",
+    "label": "politics"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "Diplomats successfully negotiated peace treaty ending years of armed conflict",
+    "label": "politics"
+  },
+  {
+    "text": "League created oversight committee to monitor compliance with safety regulations",
+    "label": "sports"
+  },
+  {
+    "text": "Figure skater landed triple axel perfectly capturing hearts of audience",
+    "label": "sports"
+  },
+  {
+    "text": "Congress approved budget allocating billions for infrastructure and social programs",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "Association implemented stricter enforcement of existing eligibility requirements",
+    "label": "sports"
+  },
+  {
+    "text": "Congress approved budget allocating billions for infrastructure and social programs",
+    "label": "politics"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "sports"
+  },
+  {
+    "text": "President appointed new cabinet ministers in major government reshuffle today",
+    "label": "politics"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "The boxer delivered knockout punch in seventh round defending title successfully",
+    "label": "sports"
+  },
+  {
+    "text": "Political strategists developed aggressive approach for tackling policy challenges",
+    "label": "politics"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign team executed ground game strategy mobilizing supporters in key areas",
+    "label": "politics"
+  },
+  {
+    "text": "Diplomats successfully negotiated peace treaty ending years of armed conflict",
+    "label": "politics"
+  },
+  {
+    "text": "The runner sprinted past competitors winning gold medal in record time",
+    "label": "sports"
+  },
+  {
+    "text": "President appointed new cabinet ministers in major government reshuffle today",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "sports"
+  },
+  {
+    "text": "Figure skater landed triple axel perfectly capturing hearts of audience",
+    "label": "sports"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "sports"
+  },
+  {
+    "text": "Party surrogates defended record against aggressive attacks from challengers",
+    "label": "politics"
+  },
+  {
+    "text": "The minister defended controversial policy during heated parliamentary debate session",
+    "label": "politics"
+  },
+  {
+    "text": "Association leaders reviewed applications from cities seeking to host championships",
+    "label": "sports"
+  },
+  {
+    "text": "Swimming relay team touched wall first setting new world record time",
+    "label": "sports"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "sports"
+  },
+  {
+    "text": "The governor's approval ratings improved following strong leadership during crisis",
+    "label": "politics"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "sports"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "sports"
+  },
+  {
+    "text": "The federation debated proposed regulations about competitive balance and fairness",
+    "label": "sports"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "Political strategists developed aggressive approach for tackling policy challenges",
+    "label": "politics"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "sports"
+  },
+  {
+    "text": "Soccer midfielder delivered perfect assist splitting defense for easy goal",
+    "label": "sports"
+  },
+  {
+    "text": "The governing body established task force examining competitive imbalances regionally",
+    "label": "sports"
+  },
+  {
+    "text": "Baseball pitcher struck out batter with devastating curveball for win",
+    "label": "sports"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "politics"
+  },
+  {
+    "text": "Opposition introduced motion of no confidence in current coalition government",
+    "label": "politics"
+  },
+  {
+    "text": "Senate confirmed supreme court nominee after weeks of contentious hearings",
+    "label": "politics"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "sports"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "Swimming relay team touched wall first setting new world record time",
+    "label": "sports"
+  },
+  {
+    "text": "Ambassador presented credentials at formal ceremony with head of state",
+    "label": "politics"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "politics"
+  },
+  {
+    "text": "Tennis champion served powerful ace clinching grand slam title decisively",
+    "label": "sports"
+  },
+  {
+    "text": "Golfer sank birdie putt on eighteenth hole capturing tournament victory",
+    "label": "sports"
+  },
+  {
+    "text": "Treasury secretary outlined economic stimulus package to boost sluggish growth",
+    "label": "politics"
+  },
+  {
+    "text": "Cyclist powered up mountain pass taking yellow jersey in grueling stage",
+    "label": "sports"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "sports"
+  },
+  {
+    "text": "President appointed new cabinet ministers in major government reshuffle today",
+    "label": "politics"
+  },
+  {
+    "text": "The gymnast executed flawless floor routine earning perfect scores from judges",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball star sank buzzer-beater three-pointer winning playoff game dramatically",
+    "label": "sports"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "sports"
+  },
+  {
+    "text": "Figure skater landed triple axel perfectly capturing hearts of audience",
+    "label": "sports"
+  },
+  {
+    "text": "Officials negotiated broadcasting rights deal with major television networks",
+    "label": "sports"
+  },
+  {
+    "text": "Party leaders recruited candidates to compete in challenging electoral contests",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "sports"
+  },
+  {
+    "text": "The boxer delivered knockout punch in seventh round defending title successfully",
+    "label": "sports"
+  },
+  {
+    "text": "Senate confirmed supreme court nominee after weeks of contentious hearings",
+    "label": "politics"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "Political action committee invested heavily in competitive races across regions",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "The athlete broke long-standing record in high jump competition finals",
+    "label": "sports"
+  },
+  {
+    "text": "Wrestler pinned challenger in final seconds retaining heavyweight championship belt",
+    "label": "sports"
+  },
+  {
+    "text": "League officials announced major reforms to governance structure following investigation",
+    "label": "sports"
+  },
+  {
+    "text": "The boxer delivered knockout punch in seventh round defending title successfully",
+    "label": "sports"
+  },
+  {
+    "text": "Opposition leader criticized administration's handling of economic crisis situation",
+    "label": "politics"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "sports"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "sports"
+  },
+  {
+    "text": "The governor's approval ratings improved following strong leadership during crisis",
+    "label": "politics"
+  },
+  {
+    "text": "Swimming relay team touched wall first setting new world record time",
+    "label": "sports"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "The federation debated proposed regulations about competitive balance and fairness",
+    "label": "sports"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "politics"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "The committee voted to approve expansion plans despite opposition from members",
+    "label": "sports"
+  },
+  {
+    "text": "The mayor proposed tax increases to fund expanding municipal services",
+    "label": "politics"
+  },
+  {
+    "text": "Treasury secretary outlined economic stimulus package to boost sluggish growth",
+    "label": "politics"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "The committee voted to approve expansion plans despite opposition from members",
+    "label": "sports"
+  },
+  {
+    "text": "Swimming relay team touched wall first setting new world record time",
+    "label": "sports"
+  },
+  {
+    "text": "The mayor proposed tax increases to fund expanding municipal services",
+    "label": "politics"
+  },
+  {
+    "text": "The candidate trained extensively preparing for high-stakes debate against opponent",
+    "label": "politics"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "politics"
+  },
+  {
+    "text": "Lawmakers reached bipartisan compromise on immigration reform after months of negotiation",
+    "label": "politics"
+  },
+  {
+    "text": "Opposition introduced motion of no confidence in current coalition government",
+    "label": "politics"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "sports"
+  },
+  {
+    "text": "Hockey forward scored overtime goal sending fans into wild celebration",
+    "label": "sports"
+  },
+  {
+    "text": "Association implemented stricter enforcement of existing eligibility requirements",
+    "label": "sports"
+  },
+  {
+    "text": "The senator's performance in televised debate impressed undecided voters significantly",
+    "label": "politics"
+  },
+  {
+    "text": "The senator's performance in televised debate impressed undecided voters significantly",
+    "label": "politics"
+  },
+  {
+    "text": "Cricket batsman smashed century leading country to series victory convincingly",
+    "label": "sports"
+  },
+  {
+    "text": "Diplomats successfully negotiated peace treaty ending years of armed conflict",
+    "label": "politics"
+  },
+  {
+    "text": "The board approved significant increases in licensing fees for merchandise",
+    "label": "sports"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign team executed ground game strategy mobilizing supporters in key areas",
+    "label": "politics"
+  },
+  {
+    "text": "Figure skater landed triple axel perfectly capturing hearts of audience",
+    "label": "sports"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "sports"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "politics"
+  },
+  {
+    "text": "The chancellor announced austerity measures addressing severe budget deficit concerns",
+    "label": "politics"
+  },
+  {
+    "text": "Cricket batsman smashed century leading country to series victory convincingly",
+    "label": "sports"
+  },
+  {
+    "text": "The administration faced strong opposition during legislative battles over reforms",
+    "label": "politics"
+  },
+  {
+    "text": "League created oversight committee to monitor compliance with safety regulations",
+    "label": "sports"
+  },
+  {
+    "text": "Supreme court ruled existing statute unconstitutional in landmark decision yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "The mayor proposed tax increases to fund expanding municipal services",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign team executed ground game strategy mobilizing supporters in key areas",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "The athlete broke long-standing record in high jump competition finals",
+    "label": "sports"
+  },
+  {
+    "text": "The runner sprinted past competitors winning gold medal in record time",
+    "label": "sports"
+  },
+  {
+    "text": "Party leaders recruited candidates to compete in challenging electoral contests",
+    "label": "politics"
+  },
+  {
+    "text": "The governor's approval ratings improved following strong leadership during crisis",
+    "label": "politics"
+  },
+  {
+    "text": "Senate confirmed supreme court nominee after weeks of contentious hearings",
+    "label": "politics"
+  },
+  {
+    "text": "Prime minister resigned following scandal involving misuse of public funds",
+    "label": "politics"
+  },
+  {
+    "text": "Quarterback threw touchdown pass connecting with receiver in corner endzone",
+    "label": "sports"
+  },
+  {
+    "text": "Rugby fullback kicked penalty goal from halfway line in dying seconds",
+    "label": "sports"
+  },
+  {
+    "text": "The governor's approval ratings improved following strong leadership during crisis",
+    "label": "politics"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "Supreme court ruled existing statute unconstitutional in landmark decision yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "The committee voted to approve expansion plans despite opposition from members",
+    "label": "sports"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "politics"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "sports"
+  },
+  {
+    "text": "The governor signed executive order declaring state of emergency statewide",
+    "label": "politics"
+  },
+  {
+    "text": "The board approved significant increases in licensing fees for merchandise",
+    "label": "sports"
+  },
+  {
+    "text": "The board approved significant increases in licensing fees for merchandise",
+    "label": "sports"
+  },
+  {
+    "text": "Association implemented stricter enforcement of existing eligibility requirements",
+    "label": "sports"
+  },
+  {
+    "text": "The minister defended controversial policy during heated parliamentary debate session",
+    "label": "politics"
+  },
+  {
+    "text": "Party surrogates defended record against aggressive attacks from challengers",
+    "label": "politics"
+  },
+  {
+    "text": "The administration faced strong opposition during legislative battles over reforms",
+    "label": "politics"
+  },
+  {
+    "text": "Senate committee investigated allegations of corruption in federal contracting process",
+    "label": "politics"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "politics"
+  },
+  {
+    "text": "The administration struggled to recover from poorly managed response to situation",
+    "label": "politics"
+  },
+  {
+    "text": "Team executives lobbied lawmakers for tax incentives and public stadium funding",
+    "label": "sports"
+  },
+  {
+    "text": "President appointed new cabinet ministers in major government reshuffle today",
+    "label": "politics"
+  },
+  {
+    "text": "Swimming relay team touched wall first setting new world record time",
+    "label": "sports"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "sports"
+  },
+  {
+    "text": "Ambassador presented credentials at formal ceremony with head of state",
+    "label": "politics"
+  },
+  {
+    "text": "Swimming relay team touched wall first setting new world record time",
+    "label": "sports"
+  },
+  {
+    "text": "Quarterback threw touchdown pass connecting with receiver in corner endzone",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "politics"
+  },
+  {
+    "text": "The governor signed executive order declaring state of emergency statewide",
+    "label": "politics"
+  },
+  {
+    "text": "The board approved significant increases in licensing fees for merchandise",
+    "label": "sports"
+  },
+  {
+    "text": "Party officials worked to maintain momentum following victories in special elections",
+    "label": "politics"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "Party leaders recruited candidates to compete in challenging electoral contests",
+    "label": "politics"
+  },
+  {
+    "text": "Party surrogates defended record against aggressive attacks from challengers",
+    "label": "politics"
+  },
+  {
+    "text": "Basketball star sank buzzer-beater three-pointer winning playoff game dramatically",
+    "label": "sports"
+  },
+  {
+    "text": "The administration faced strong opposition during legislative battles over reforms",
+    "label": "politics"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "sports"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "Prime minister resigned following scandal involving misuse of public funds",
+    "label": "politics"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "Senate committee investigated allegations of corruption in federal contracting process",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "The mayor proposed tax increases to fund expanding municipal services",
+    "label": "politics"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "Party leaders recruited candidates to compete in challenging electoral contests",
+    "label": "politics"
+  },
+  {
+    "text": "Officials negotiated broadcasting rights deal with major television networks",
+    "label": "sports"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "sports"
+  },
+  {
+    "text": "The boxer delivered knockout punch in seventh round defending title successfully",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign managers devised defensive strategies for protecting vulnerable seats",
+    "label": "politics"
+  },
+  {
+    "text": "Olympic committee officials secured government funding for national athlete training programs",
+    "label": "sports"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign promises emphasized increased investment in community sports facilities",
+    "label": "politics"
+  },
+  {
+    "text": "Senate committee investigated allegations of corruption in federal contracting process",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign team executed ground game strategy mobilizing supporters in key areas",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign officials announced strategic plans for winning crucial battleground districts",
+    "label": "politics"
+  },
+  {
+    "text": "Rugby fullback kicked penalty goal from halfway line in dying seconds",
+    "label": "sports"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "sports"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "Quarterback threw touchdown pass connecting with receiver in corner endzone",
+    "label": "sports"
+  },
+  {
+    "text": "Party leaders recruited candidates to compete in challenging electoral contests",
+    "label": "politics"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "sports"
+  },
+  {
+    "text": "President appointed new cabinet ministers in major government reshuffle today",
+    "label": "politics"
+  },
+  {
+    "text": "Political strategists developed aggressive approach for tackling policy challenges",
+    "label": "politics"
+  },
+  {
+    "text": "Cyclist powered up mountain pass taking yellow jersey in grueling stage",
+    "label": "sports"
+  },
+  {
+    "text": "Federal investigation examined corruption allegations involving tournament bidding process",
+    "label": "politics"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "politics"
+  },
+  {
+    "text": "Association leaders reviewed applications from cities seeking to host championships",
+    "label": "sports"
+  },
+  {
+    "text": "Party officials worked to maintain momentum following victories in special elections",
+    "label": "politics"
+  },
+  {
+    "text": "The governor signed executive order declaring state of emergency statewide",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis champion served powerful ace clinching grand slam title decisively",
+    "label": "sports"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "sports"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "The runner sprinted past competitors winning gold medal in record time",
+    "label": "sports"
+  },
+  {
+    "text": "Party surrogates defended record against aggressive attacks from challengers",
+    "label": "politics"
+  },
+  {
+    "text": "Tennis champion served powerful ace clinching grand slam title decisively",
+    "label": "sports"
+  },
+  {
+    "text": "The candidate trained extensively preparing for high-stakes debate against opponent",
+    "label": "politics"
+  },
+  {
+    "text": "Parliament dissolved following unsuccessful coalition formation after inconclusive elections",
+    "label": "politics"
+  },
+  {
+    "text": "Golfer sank birdie putt on eighteenth hole capturing tournament victory",
+    "label": "sports"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "Cyclist powered up mountain pass taking yellow jersey in grueling stage",
+    "label": "sports"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "sports"
+  },
+  {
+    "text": "Campaign team executed ground game strategy mobilizing supporters in key areas",
+    "label": "politics"
+  },
+  {
+    "text": "The governor signed executive order declaring state of emergency statewide",
+    "label": "politics"
+  },
+  {
+    "text": "Ambassador presented credentials at formal ceremony with head of state",
+    "label": "politics"
+  },
+  {
+    "text": "Officials negotiated broadcasting rights deal with major television networks",
+    "label": "sports"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "sports"
+  },
+  {
+    "text": "The board approved significant increases in licensing fees for merchandise",
+    "label": "sports"
+  },
+  {
+    "text": "Cricket batsman smashed century leading country to series victory convincingly",
+    "label": "sports"
+  },
+  {
+    "text": "Representatives advocated for rule changes at international federation meetings",
+    "label": "sports"
+  },
+  {
+    "text": "Prime minister resigned following scandal involving misuse of public funds",
+    "label": "politics"
+  },
+  {
+    "text": "The governor's approval ratings improved following strong leadership during crisis",
+    "label": "politics"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "The federation debated proposed regulations about competitive balance and fairness",
+    "label": "sports"
+  },
+  {
+    "text": "Supreme court ruled existing statute unconstitutional in landmark decision yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "Basketball star sank buzzer-beater three-pointer winning playoff game dramatically",
+    "label": "sports"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "The administration struggled to recover from poorly managed response to situation",
+    "label": "politics"
+  },
+  {
+    "text": "Representatives advocated for rule changes at international federation meetings",
+    "label": "sports"
+  },
+  {
+    "text": "Party surrogates defended record against aggressive attacks from challengers",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "politics"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "The organization published report detailing financial statements and governance improvements",
+    "label": "sports"
+  },
+  {
+    "text": "Parliament passed comprehensive healthcare legislation by narrow majority vote yesterday",
+    "label": "politics"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "Cyclist powered up mountain pass taking yellow jersey in grueling stage",
+    "label": "sports"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "politics"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "politics"
+  },
+  {
+    "text": "The candidate trained extensively preparing for high-stakes debate against opponent",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "sports"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "sports"
+  },
+  {
+    "text": "The candidate trained extensively preparing for high-stakes debate against opponent",
+    "label": "politics"
+  },
+  {
+    "text": "Political commentators analyzed shifts in polling data between competing parties",
+    "label": "politics"
+  },
+  {
+    "text": "Political leaders attended championship celebration to show support for national team",
+    "label": "sports"
+  },
+  {
+    "text": "Golfer sank birdie putt on eighteenth hole capturing tournament victory",
+    "label": "sports"
+  },
+  {
+    "text": "Representatives advocated for rule changes at international federation meetings",
+    "label": "sports"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "League headquarters issued sanctions against franchises violating salary cap rules",
+    "label": "sports"
+  },
+  {
+    "text": "Team organization implemented new policies addressing workplace conduct standards",
+    "label": "sports"
+  },
+  {
+    "text": "Federation representatives met to discuss revenue sharing and distribution policies",
+    "label": "sports"
+  },
+  {
+    "text": "The administration's policies promoted healthy lifestyles through recreational initiatives",
+    "label": "politics"
+  },
+  {
+    "text": "Opposition introduced motion of no confidence in current coalition government",
+    "label": "politics"
+  },
+  {
+    "text": "The senator's performance in televised debate impressed undecided voters significantly",
+    "label": "politics"
+  },
+  {
+    "text": "Government budget cuts threatened funding for school athletic programs across state",
+    "label": "sports"
+  },
+  {
+    "text": "Opposition introduced motion of no confidence in current coalition government",
+    "label": "politics"
+  },
+  {
+    "text": "Officials negotiated broadcasting rights deal with major television networks",
+    "label": "sports"
+  },
+  {
+    "text": "Opposition mounted comeback campaign after suffering defeats on major votes",
+    "label": "politics"
+  },
+  {
+    "text": "Prime minister resigned following scandal involving misuse of public funds",
+    "label": "politics"
+  },
+  {
+    "text": "Campaign officials announced strategic plans for winning crucial battleground districts",
+    "label": "politics"
+  },
+  {
+    "text": "Legislature debated requiring background checks for all youth sports coaching positions",
+    "label": "politics"
+  },
+  {
+    "text": "Representatives advocated for rule changes at international federation meetings",
+    "label": "sports"
+  },
+  {
+    "text": "Prime minister resigned following scandal involving misuse of public funds",
+    "label": "politics"
+  },
+  {
+    "text": "The sports minister announced reforms to anti-doping testing and enforcement procedures",
+    "label": "sports"
+  },
+  {
+    "text": "International sanctions affected country's participation in global sporting competitions",
+    "label": "sports"
+  },
+  {
+    "text": "Treasury secretary outlined economic stimulus package to boost sluggish growth",
+    "label": "politics"
+  },
+  {
+    "text": "Cricket batsman smashed century leading country to series victory convincingly",
+    "label": "sports"
+  }
+]
