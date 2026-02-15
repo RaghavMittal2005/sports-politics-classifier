@@ -1,3 +1,11 @@
+"""
+create_dataset.py
+-----------------
+Generate a synthetic, balanced dataset mixing clear, moderate and hard/ambiguous
+examples for two classes: `sports` and `politics`. The generated dataset is
+written to `dataset.json` and a small summary is printed to the console.
+"""
+
 import json
 import random
 
@@ -87,6 +95,7 @@ moderate_politics=[
 ]
 
 # HARD CASES -
+# HARD CASES - ambiguous or politically/administratively themed texts
 hard_cases=[
     "Olympic committee officials secured government funding for national athlete training programs",
     "Legislature debated requiring background checks for all youth sports coaching positions",
@@ -101,84 +110,92 @@ hard_cases=[
 ]
 
 def create_balanced_dataset(samples_per_class=400):
-    all_data=[]
-    
+    """Return a balanced list of dicts with `text` and `label` fields.
+
+    The composition for each class is:
+    - 40% clear examples
+    - 40% moderate examples
+    - 20% hard/ambiguous examples
+    """
+    all_data = []
+
     # SPORTS composition: 40% clear, 40% moderate, 20% hard
-    for i in range(int(samples_per_class*0.40)):
-        all_data.append({"text":random.choice(clear_sports),"label":"sports"})
-    
-    for i in range(int(samples_per_class*0.40)):
-        all_data.append({"text":random.choice(moderate_sports),"label":"sports"})
-    
-    for i in range(int(samples_per_class*0.20)):
-        all_data.append({"text":random.choice(hard_cases),"label":"sports"})
-    
+    for i in range(int(samples_per_class * 0.40)):
+        all_data.append({"text": random.choice(clear_sports), "label": "sports"})
+
+    for i in range(int(samples_per_class * 0.40)):
+        all_data.append({"text": random.choice(moderate_sports), "label": "sports"})
+
+    for i in range(int(samples_per_class * 0.20)):
+        all_data.append({"text": random.choice(hard_cases), "label": "sports"})
+
     # POLITICS composition: 40% clear, 40% moderate, 20% hard
-    for i in range(int(samples_per_class*0.40)):
-        all_data.append({"text":random.choice(clear_politics),"label":"politics"})
-    
-    for i in range(int(samples_per_class*0.40)):
-        all_data.append({"text":random.choice(moderate_politics),"label":"politics"})
-    
-    for i in range(int(samples_per_class*0.20)):
-        all_data.append({"text":random.choice(hard_cases),"label":"politics"})
-    
+    for i in range(int(samples_per_class * 0.40)):
+        all_data.append({"text": random.choice(clear_politics), "label": "politics"})
+
+    for i in range(int(samples_per_class * 0.40)):
+        all_data.append({"text": random.choice(moderate_politics), "label": "politics"})
+
+    for i in range(int(samples_per_class * 0.20)):
+        all_data.append({"text": random.choice(hard_cases), "label": "politics"})
+
     random.shuffle(all_data)
     return all_data
 
-# Create dataset
-dataset=create_balanced_dataset(400)
 
-# Save
-with open('dataset.json','w') as f:
-    json.dump(dataset,f,indent=2)
+# Create dataset and save to disk
+dataset = create_balanced_dataset(400)
 
-# Analysis
+with open('dataset.json', 'w') as f:
+    json.dump(dataset, f, indent=2)
+
+
+# Simple analysis summary printed to console so users see dataset properties
 def get_vocab(texts):
-    words=set()
+    words = set()
     for text in texts:
         words.update(text.lower().split())
     return words
 
-sports_texts=[x['text'] for x in dataset if x['label']=='sports']
-politics_texts=[x['text'] for x in dataset if x['label']=='politics']
 
-sports_vocab=get_vocab(sports_texts)
-politics_vocab=get_vocab(politics_texts)
+sports_texts = [x['text'] for x in dataset if x['label'] == 'sports']
+politics_texts = [x['text'] for x in dataset if x['label'] == 'politics']
 
-overlap=sports_vocab.intersection(politics_vocab)
-sports_only=sports_vocab-politics_vocab
-politics_only=politics_vocab-sports_vocab
+sports_vocab = get_vocab(sports_texts)
+politics_vocab = get_vocab(politics_texts)
 
-print("="*70)
+overlap = sports_vocab.intersection(politics_vocab)
+sports_only = sports_vocab - politics_vocab
+politics_only = politics_vocab - sports_vocab
+
+print("=" * 70)
 print("BALANCED CHALLENGING DATASET CREATED")
-print("="*70)
+print("=" * 70)
 
 print(f"\nDataset Size:")
 print(f"  Total: {len(dataset)} samples")
-print(f"  Sports: {sum(1 for x in dataset if x['label']=='sports')}")
-print(f"  Politics: {sum(1 for x in dataset if x['label']=='politics')}")
-
+print(f"  Sports: {sum(1 for x in dataset if x['label'] == 'sports')}")
+print(f"  Politics: {sum(1 for x in dataset if x['label'] == 'politics')}")
 
 print(f"\nVocabulary Analysis:")
 print(f"  Total unique words: {len(sports_vocab.union(politics_vocab))}")
 print(f"  Sports-only: {len(sports_only)}")
 print(f"  Politics-only: {len(politics_only)}")
-print(f"  Shared: {len(overlap)} ({len(overlap)/len(sports_vocab.union(politics_vocab))*100:.1f}%)")
+print(f"  Shared: {len(overlap)} ({len(overlap) / len(sports_vocab.union(politics_vocab)) * 100:.1f}%)")
 
 print(f"\nSample clear sports:")
-for text in random.sample([x['text'] for x in dataset if x['label']=='sports' and ('scored' in x['text'] or 'goal' in x['text'])],2):
+for text in random.sample([x['text'] for x in dataset if x['label'] == 'sports' and ('scored' in x['text'] or 'goal' in x['text'])], 2):
     print(f"  - {text[:70]}...")
 
 print(f"\nSample clear politics:")
-for text in random.sample([x['text'] for x in dataset if x['label']=='politics' and ('parliament' in x['text'].lower() or 'legislation' in x['text'].lower())],2):
+for text in random.sample([x['text'] for x in dataset if x['label'] == 'politics' and ('parliament' in x['text'].lower() or 'legislation' in x['text'].lower())], 2):
     print(f"  - {text[:70]}...")
 
 print(f"\nSample hard/ambiguous:")
-for text in random.sample([x['text'] for x in dataset if 'government' in x['text'].lower() or 'official' in x['text'].lower()],2):
-    label=next(x['label'] for x in dataset if x['text']==text)
+for text in random.sample([x['text'] for x in dataset if 'government' in x['text'].lower() or 'official' in x['text'].lower()], 2):
+    label = next(x['label'] for x in dataset if x['text'] == text)
     print(f"  [{label.upper()}] {text[:65]}...")
 
-print("\n" + "="*70)
+print("\n" + "=" * 70)
 print("This dataset balances challenge with learnability!")
-print("="*70)
+print("=" * 70)
