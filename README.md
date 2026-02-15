@@ -5,9 +5,6 @@ that distinguishes between "sports" and "politics" short texts. The
 repository contains utilities to generate a synthetic dataset, extract
 features, run experiments with multiple classifiers, and visualize results.
 
-Prerequisites
-- Python 3.8+
-- Install dependencies:
 
 ```
 pip install -r requirements.txt
@@ -52,10 +49,4 @@ Files
 - `analyse_dataset.py`: prints dataset-level statistics and examples.
 - `demo.py`: trains a quick demo classifier and provides an interactive prompt.
 
-Notes
-- This repository is intended for educational experiments and small-scale
-	demos. The preprocessing is intentionally simple; replace the extractor
-	with a more robust pipeline for production work.
 
-License
-This code is provided as-is for learning and experimentation.
